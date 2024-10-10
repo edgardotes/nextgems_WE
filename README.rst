@@ -15,5 +15,6 @@ Useful links:
 ===============
 Variable renewable energy trend
 https://tealtool.earth
+
 Global wind atlas
 https://globalwindatlas.info/en
